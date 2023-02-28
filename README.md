@@ -14,4 +14,4 @@ Customer segmentation:- Grouping customers based on their purchasing behavior to
 
 
 ### Usage
-Open the Jupyter Notebook file 'EDA BIA Capstone Project.ipynb' to view and run the analysis. The notebook includes detailed explanations of the code and analysis, as well as visualizations and insights. This project can be used as a reference for other analysts or as a starting point for further analysis of Supermart's sales data.
+Open the Jupyter Notebook file "EDA BIA Capstone Project.ipynb" to view and run the analysis. The notebook includes detailed explanations of the code and analysis, as well as visualizations and insights. This project can be used as a reference for other analysts or as a starting point for further analysis of Supermart's sales data.
